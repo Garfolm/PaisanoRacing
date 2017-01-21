@@ -1,6 +1,6 @@
 ## Enjoy!
 
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="600" height="600">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="640" height="500">
 <param name="movie" value="https://github.com/Garfolm/PaisanoRacing/GarfolmRacing.swf" />
 <param name="quality" value="high" />
 <param name="allowScriptAccess" value="always" />
@@ -9,8 +9,8 @@
 quality="high"
 type="application/x-shockwave-flash"
 WMODE="transparent"
-width="300"
-height="120"
+width="640"
+height="500"
 pluginspage="http://www.macromedia.com/go/getflashplayer"
 allowScriptAccess="always" />
 </object>
